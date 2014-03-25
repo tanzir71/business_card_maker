@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<card>
+  <name>
+    <ja_name>ななぴ なな</ja_name>
+    <en_name>NANAPI Nana</en_name>
+  </name>
+  <email>hogehoge@example.com</email>
+  <job>エンジニア</job>
+  <color>
+    <cyan></cyan>
+    <yellow></yellow>
+    <magenta></magenta>
+  </color>
+</card>

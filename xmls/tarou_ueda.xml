@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<card>
+  <name>
+    <ja_name>上田 太郎</ja_name>
+    <en_name>UEDA Taro</en_name>
+  </name>
+  <email>hogehoge@example.com</email>
+  <job>エンジニア</job>
+  <color>
+    <yellow></yellow>
+  </color>
+</card>
